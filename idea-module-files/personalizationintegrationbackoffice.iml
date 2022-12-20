@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/bin/personalizationintegrationbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/personalization/personalizationintegrationbackoffice/bin/personalizationintegrationbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="personalizationintegration" exported="" />
+    <orderEntry type="module" module-name="personalizationservicesbackoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

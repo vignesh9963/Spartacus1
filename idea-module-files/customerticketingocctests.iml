@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocctests/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commercewebservicestests" exported="" />
+    <orderEntry type="module" module-name="customerticketingocc" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

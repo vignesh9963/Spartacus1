@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/selective-cart/deprecated/selectivecartsplitlistaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="selectivecartfacades" exported="" />
+  </component>
+</module>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorcockpits/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="productcockpit" exported="" />
+  </component>
+</module>

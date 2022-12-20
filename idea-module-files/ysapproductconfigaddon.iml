@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/configurator-complex-products/deprecated/ysapproductconfigaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapproductconfigfacades" exported="" />
+  </component>
+</module>

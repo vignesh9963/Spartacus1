@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/cds-integration/deprecated/profiletagaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="profileservices" exported="" />
+  </component>
+</module>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicecustomerinterestsaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="assistedservicecustomerinterestsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

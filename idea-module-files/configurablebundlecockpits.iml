@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/bin/configurablebundlecockpitsserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/configurable-bundle/deprecated/configurablebundlecockpits/bin/configurablebundlecockpitsserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="admincockpit" exported="" />
+    <orderEntry type="module" module-name="configurablebundlefacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="productcockpit" exported="" />
+  </component>
+</module>

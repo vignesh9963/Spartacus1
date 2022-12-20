@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/bin/b2bpunchoutbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/b2b-punchout/b2bpunchoutbackoffice/bin/b2bpunchoutbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="b2bcommercebackoffice" exported="" />
+    <orderEntry type="module" module-name="b2bpunchout" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

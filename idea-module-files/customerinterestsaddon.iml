@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-interest/deprecated/customerinterestsaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="customerinterestsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Platform Bootstrap">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/resources/ant/lib" />
+      <root url="file://$PROJECT_DIR$/resources/tanukiwrapper/lib" />
+      <root url="file://$PROJECT_DIR$/resources/tanukiwrapper/bin" />
+      <root url="file://$PROJECT_DIR$/resources/tomcat-8.5.78/lib" />
+      <root url="file://$PROJECT_DIR$/resources/tomcat-8.5.78/bin" />
+      <root url="file://$PROJECT_DIR$/bootstrap/bin" />
+      <root url="file://$PROJECT_DIR$/tomcat/bin" />
+      <root url="file://$PROJECT_DIR$/tomcat/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/bootstrap/gensrc" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/bootstrap/bin" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/resources/ant/lib" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/resources/tanukiwrapper/bin" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/resources/tanukiwrapper/lib" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/resources/tomcat-8.5.78/bin" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/resources/tomcat-8.5.78/lib" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/tomcat/bin" recursive="true" />
+    <jarDirectory url="file://$PROJECT_DIR$/tomcat/lib" recursive="true" />
+  </library>
+</component>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicestorefront/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

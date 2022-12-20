@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/yforms/deprecated/xyformsstorefrontcommons/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="xyformsfacades" exported="" />
+  </component>
+</module>

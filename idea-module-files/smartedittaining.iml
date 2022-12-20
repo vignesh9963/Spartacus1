@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../custom/smartedittaining/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../custom/smartedittaining/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../custom/smartedittaining">
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/smartedittaining/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../custom/smartedittaining/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../custom/smartedittaining/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="smartedit" exported="" />
+    <orderEntry type="module" module-name="smartedittools" exported="" />
+  </component>
+</module>

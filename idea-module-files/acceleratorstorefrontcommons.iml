@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/core-accelerator/deprecated/acceleratorstorefrontcommons/commonweb/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

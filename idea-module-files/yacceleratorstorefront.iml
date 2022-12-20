@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/base-accelerator/deprecated/yacceleratorstorefront/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicecustomerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicepromotionaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicestorefront" exported="" />
+    <orderEntry type="module" module-name="assistedserviceyprofileaddon" exported="" />
+    <orderEntry type="module" module-name="captchaaddon" exported="" />
+    <orderEntry type="module" module-name="chineseaddressaddon" exported="" />
+    <orderEntry type="module" module-name="configurablebundleaddon" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingaddon" exported="" />
+    <orderEntry type="module" module-name="customercouponaddon" exported="" />
+    <orderEntry type="module" module-name="customercouponsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="customerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="customerticketingaddon" exported="" />
+    <orderEntry type="module" module-name="eventtrackingwsaddon" exported="" />
+    <orderEntry type="module" module-name="merchandisingaddon" exported="" />
+    <orderEntry type="module" module-name="merchandisingstorefrontsampledataaddon" exported="" />
+    <orderEntry type="module" module-name="multicountrysampledataaddon" exported="" />
+    <orderEntry type="module" module-name="notificationaddon" exported="" />
+    <orderEntry type="module" module-name="ordermanagementaddon" exported="" />
+    <orderEntry type="module" module-name="orderselfserviceaddon" exported="" />
+    <orderEntry type="module" module-name="pcmbackofficesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationsampledataaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationyprofilesampledataaddon" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="profiletagaddon" exported="" />
+    <orderEntry type="module" module-name="selectivecartsplitlistaddon" exported="" />
+    <orderEntry type="module" module-name="smarteditaddon" exported="" />
+    <orderEntry type="module" module-name="stocknotificationaddon" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateaddon" exported="" />
+    <orderEntry type="module" module-name="timedaccesspromotionengineaddon" exported="" />
+    <orderEntry type="module" module-name="timedaccesspromotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="xyformssamples" exported="" />
+    <orderEntry type="module" module-name="xyformsstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="yacceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="ysapproductconfigaddon" exported="" />
+  </component>
+</module>

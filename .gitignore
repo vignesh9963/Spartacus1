@@ -1,0 +1,25 @@
+# Project exclude paths
+/.externalToolBuilders/
+/.settings/
+/bootstrap/modelclasses/
+/ext/advancedsavedquery/.settings/
+/ext/catalog/.settings/
+/ext/comments/.settings/
+/ext/commons/.settings/
+/ext/core/.settings/
+/ext/deliveryzone/.settings/
+/ext/europe1/.settings/
+/ext/hac/.settings/
+/ext/hac/web/testclasses/
+/ext/impex/.settings/
+/ext/maintenanceweb/.settings/
+/ext/mediaweb/.settings/
+/ext/oauth2/.settings/
+/ext/paymentstandard/.settings/
+/ext/platformservices/.settings/
+/ext/scripting/.settings/
+/ext/testweb/.settings/
+/ext/testweb/web/testclasses/
+/ext/validation/.settings/
+/ext/workflow/.settings/
+/tomcat/

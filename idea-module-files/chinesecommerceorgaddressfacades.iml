@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chinesecommerceorgaddressfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="b2bcommercefacades" exported="" />
+    <orderEntry type="module" module-name="chineseaddressservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

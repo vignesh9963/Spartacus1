@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/china-accelerator-address/chineseaddressocc/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="chineseaddressfacades" exported="" />
+    <orderEntry type="module" module-name="chinesecommercewebservicescommons" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

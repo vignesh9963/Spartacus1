@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/b2c-accelerator-addons/deprecated/multicountrysampledataaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

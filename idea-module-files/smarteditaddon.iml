@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/smartedit/deprecated/smarteditaddon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="smartedit" exported="" />
+  </component>
+</module>

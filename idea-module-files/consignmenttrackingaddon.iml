@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/consignment-tracking/deprecated/consignmenttrackingaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

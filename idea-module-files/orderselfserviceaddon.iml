@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/order-management/deprecated/orderselfserviceaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="ordermanagementfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

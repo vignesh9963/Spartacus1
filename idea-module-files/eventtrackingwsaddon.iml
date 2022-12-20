@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingwsaddon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="eventtrackingservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

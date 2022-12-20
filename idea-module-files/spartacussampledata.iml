@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../custom/spartacussampledata/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../custom/spartacussampledata/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../custom/spartacussampledata">
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../custom/spartacussampledata/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

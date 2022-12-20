@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/personalization-integration/deprecated/personalizationaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="personalizationcms" exported="" />
+    <orderEntry type="module" module-name="personalizationfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

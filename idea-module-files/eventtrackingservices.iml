@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../modules/event-tracking/deprecated/eventtrackingservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="eventtrackingmodel" exported="" />
+    <orderEntry type="module" module-name="eventtrackingpublisher" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

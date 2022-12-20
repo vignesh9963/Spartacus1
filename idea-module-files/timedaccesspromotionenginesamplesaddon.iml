@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/timed-access-promotion-engine/deprecated/timedaccesspromotionenginesamplesaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" exported="" />
+  </component>
+</module>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/assisted-services/deprecated/assistedservicepromotionaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="assistedservicepromotionfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

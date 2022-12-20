@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/bin/subscriptioncockpitsserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../modules/subscriptions/deprecated/subscriptioncockpits/bin/subscriptioncockpitsserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="admincockpit" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="productcockpit" exported="" />
+    <orderEntry type="module" module-name="subscriptionfacades" exported="" />
+  </component>
+</module>

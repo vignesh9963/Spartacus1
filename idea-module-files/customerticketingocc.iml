@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/2205/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc">
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../modules/customer-service/customerticketingocc/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commercewebservices" exported="" />
+    <orderEntry type="module" module-name="customerticketingfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>
